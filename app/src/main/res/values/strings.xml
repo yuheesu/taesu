@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">taesu</string>
+
+    <!--메인 메뉴 -->
+    <string name="menu_date">일정</string>
+    <string name="menu_money">가계부</string>
+    <string name="menu_bucket_list">버킷리스트</string>
+    <string name="menu_photo">사진</string>
+    <string name="menu_setting">설정</string>
+
+    <!-- 일정 부분 -->
+    <string name="date_list">일정 목록</string>
+    <string name="date_list_add">일정 추가</string>
+    <string name="date_list_add_confrim">확인</string>
+
+</resources>
