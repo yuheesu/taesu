@@ -10,7 +10,7 @@ public class calendarDetailDateAdd extends AppCompatActivity {
 
     Button DateAdd_button;
 
-    Button add;
+    Button addf;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
